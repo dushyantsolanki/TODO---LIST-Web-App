@@ -6,6 +6,11 @@ html, body {
   margin: 0;
   padding: 0;
 }
+h1{
+  text-align: center;
+  color: blue;
+  margin: 0 0 3rem 0;
+}
 
 body {
   height: 100vh;
